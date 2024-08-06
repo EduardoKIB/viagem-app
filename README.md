@@ -1,8 +1,7 @@
-# React + Vite
+Durante o decorrer da aula nos observamos o professor criar o website de viagens incluindo os componentes Componentes Principais:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App.jsx, Header.jsx, Footer.jsx, Home.jsx, Destinos.jsx, Contato.jsx
 
-Currently, two official plugins are available:
+os componentes de Destino: Destino.jsx, FormDestino.jsx para exibir e adicionar destinos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+o gerenciamento de estado da pagina e a lista de destinos utilizando o useState, também aprendemos mais sobre as funções do react e como  fazer o sistema de calculo para o site de viagem.
